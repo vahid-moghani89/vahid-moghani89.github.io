@@ -5,25 +5,21 @@ description: "Personal webpage for Vahid Moghani"
 author: "Vahid Moghani"
 
 # Use the GitHub Pages remote “Minimal” theme
-remote_theme: "pages-themes/minimal@v0.2.0"
+remote_theme: "minima"
 
-# Enable the remote-theme plugin
-plugins:
-  - jekyll-remote-theme
+
 
 # Markdown processor
 markdown: kramdown
 
-# Navigation is now driven by _data/navigation.yml (remove header_pages)
-# Create a file at _data/navigation.yml with entries like:
-#
-#   - title: Home
-#     url: /
-#   - title: Research
-#     url: /research/
-#   - title: Book a Meeting
-#     url: /book-a-meeting/
-#   - title: Contact
-#     url: /contact/
-#
-# That will populate your header links in the Minimal theme.
+# Expose pages in the header navigation. These paths correspond to the main
+# sections of the site and will appear in order.
+header_pages:
+  - index.md
+  - research.md
+  - book-a-meeting.md
+  - contact.md
+  # Farsi pages can be added to the header if desired by uncommenting the lines
+  #- fa/تحقیقات-آکادمیک.md
+  #- fa/دیدگاه‌ها.md
+  #- fa/علی-مغانی.md
