@@ -4,8 +4,6 @@ title: "Contact"
 permalink: /contact/
 ---
 
-## Contact Details
-
 **Email:** contact@vahid-moghani.com
 
 **Phone:** (+31) 104088736
