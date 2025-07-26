@@ -12,7 +12,7 @@ title: "Home"
 </div>
 
 <div markdown="1" style="text-align: justify; margin-bottom: 2rem;">
-## Welcome to my personal webpage
+## Welcome to my Personal Webpage
 
 I am a postdoctoral researcher at Erasmus School of Economics and Tinbergen Institute. I work as a part of the Health Economics group in the Applied Economics department. My research interests mostly lie in the intersection of Health, Labour, and Family Economics.
 
