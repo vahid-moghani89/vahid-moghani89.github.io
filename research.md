@@ -30,10 +30,36 @@ With Pilar García‑Gómez and Tom Van Ourti. *Email me for a draft.*
 
 # Work in Progress
 
-* **Health Disparities: The Business Contribution** – Using the pool of all full‑time employees in the Netherlands between 2009‑2016, this study will focus on how workplace settings might influence health outcomes. By analyzing the health trends among the movers across firms, this research intends to isolate the specific influence of firm‑related factors, distinguishing them from the personal attributes of employees. This nuanced approach is expected to shed light on the diverse ways in which work environments can impact health. The findings from this study will be instrumental in informing the development of more effective health policies and workplace interventions. These efforts will not only aim to enhance individual health but also seek to reduce health disparities at a societal level. Ultimately, this method will provide insights into the extent to which firm‑level factors explain variations in health expenditures, offering valuable guidance for future policy and organizational decisions【729623196434139†L84-L98】.
+<!--
+Wrap each work‑in‑progress project in a `<details>` block so that visitors can
+expand and collapse individual projects.  This mirrors the structure of the
+working papers section above.
+-->
 
-* **From Home to Clinic: The Impact of GPs' Children's Gender on the Propensity of Mental Health Medication Prescription**
+<details>
+<summary>Health Disparities: The Business Contribution</summary>
 
-* **The Determinants of Demand for Mental Health Support** – With Sonia Bhalotra and Francesco Capozza【729623196434139†L100-L106】.
+Using the pool of all full‑time employees in the Netherlands between 2009‑2016, this study will focus on how workplace settings might influence health outcomes. By analyzing the health trends among the movers across firms, this research intends to isolate the specific influence of firm‑related factors, distinguishing them from the personal attributes of employees. This nuanced approach is expected to shed light on the diverse ways in which work environments can impact health. The findings from this study will be instrumental in informing the development of more effective health policies and workplace interventions. These efforts will not only aim to enhance individual health but also seek to reduce health disparities at a societal level. Ultimately, this method will provide insights into the extent to which firm‑level factors explain variations in health expenditures, offering valuable guidance for future policy and organizational decisions【729623196434139†L84-L98】.
 
-* **A Semiparametric Difference Estimator using Local Polynomial Modeling** – With Saeed Badri【729623196434139†L108-L110】.
+</details>
+
+<details>
+<summary>From Home to Clinic: The Impact of GPs' Children's Gender on the Propensity of Mental Health Medication Prescription</summary>
+
+Project in preparation.
+
+</details>
+
+<details>
+<summary>The Determinants of Demand for Mental Health Support</summary>
+
+With Sonia Bhalotra and Francesco Capozza【729623196434139†L100-L106】.
+
+</details>
+
+<details>
+<summary>A Semiparametric Difference Estimator using Local Polynomial Modeling</summary>
+
+With Saeed Badri【729623196434139†L108-L110】.
+
+</details>
