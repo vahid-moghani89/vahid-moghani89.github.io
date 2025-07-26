@@ -1,8 +1,12 @@
 title: "Vahid Moghani"
 description: "Personal webpage for Vahid Moghani"
 author: "Vahid Moghani"
-# Use a simple and clean theme. GitHub Pages will apply this automatically.
-theme: minima
+
+# Use a more visually striking GitHub Pages theme.  The "jekyll‑theme‑cayman" theme
+# provides a clean layout with bold accent colours that work well for an
+# academic portfolio site.  GitHub Pages will automatically pull and build
+# the theme based on this setting.
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 
