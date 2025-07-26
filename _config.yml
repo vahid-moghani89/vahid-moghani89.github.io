@@ -1,0 +1,19 @@
+title: "Vahid Moghani"
+description: "Personal webpage for Vahid Moghani"
+author: "Vahid Moghani"
+# Use a simple and clean theme. GitHub Pages will apply this automatically.
+theme: minima
+
+markdown: kramdown
+
+# Expose pages in the header navigation. These paths correspond to the main
+# sections of the site and will appear in order.
+header_pages:
+  - index.md
+  - research.md
+  - book-a-meeting.md
+  - contact.md
+  # Farsi pages can be added to the header if desired by uncommenting the lines
+  #- fa/تحقیقات-آکادمیک.md
+  #- fa/دیدگاه‌ها.md
+  #- fa/علی-مغانی.md
