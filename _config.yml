@@ -8,6 +8,9 @@ author: "Vahid Moghani"
 # the theme based on this setting.
 theme: jekyll-theme-cayman
 
+plugins:
+- jekyll-remote-theme
+
 markdown: kramdown
 
 # Expose pages in the header navigation. These paths correspond to the main
