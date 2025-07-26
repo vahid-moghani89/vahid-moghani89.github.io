@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home    # or `default` if Minimal has no `home` layout
 title: "Home"
 ---
 
