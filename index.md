@@ -7,7 +7,7 @@ title: "Home"
   <img
     src="{{ '/graphics/9ca4446a62b3a82a649edf944974ca08-768x1151.jpg' | relative_url }}"
     alt="Vahid Moghani"
-    style="width: 100%; height: auto; border-radius: 50%;"
+    style="width: 100%; height: auto; border-radius: 10%;"
   />
 </div>
 
