@@ -1,15 +1,9 @@
-# _config.yml — using the remote “Minimal” theme
-
 title: "Vahid Moghani"
 description: "Personal webpage for Vahid Moghani"
 author: "Vahid Moghani"
+# Use a simple and clean theme. GitHub Pages will apply this automatically.
+theme: minima
 
-# Use the GitHub Pages remote “Minimal” theme
-remote_theme: "minima"
-
-
-
-# Markdown processor
 markdown: kramdown
 
 # Expose pages in the header navigation. These paths correspond to the main
