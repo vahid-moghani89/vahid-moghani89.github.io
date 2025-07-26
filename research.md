@@ -74,7 +74,7 @@ permalink: /research/
 
 _Submitted_
 
-With Michelle Acampora and Francesco Capozza. [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4261487).
+With Michelle Acampora and Francesco Capozza. [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4261487){:target="_blank" rel="noopener noreferrer"}.
 
 **Abstract** – This paper assesses the impact of a mental health literacy intervention on the demand for mental health support among university students. We run a field experiment with 2,978 university students from one of the largest Dutch universities. The intervention provides information on the benefits of care‑seeking and its potential returns in terms of academic performance. The intervention increases the willingness to pay and the demand for a mental health app among male respondents. It also increases the demand for information about coaching, correspondingly decreasing the demand for information about psychological counseling. We document that this substitution is driven by students with moderate psychological distress. Increased perceived effectiveness of low‑intensity therapy options is likely to be the mechanism. In a follow‑up survey three weeks later, we find evidence of a moderate improvement in mental health scores for treated female respondents, consistent with suggestive evidence of increased care‑seeking behavior.
 
