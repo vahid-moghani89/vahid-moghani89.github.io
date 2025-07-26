@@ -14,46 +14,54 @@ permalink: /research/
   margin-bottom: 1.5rem;
   overflow: hidden;
 }
+
 .accordion summary {
   background-color: #f7f7f7;
-  padding: 0.75rem 1rem;
+  /* bump the text right so it never sits under the arrow */
+  padding: 0.75rem 1rem 0.75rem 2.5rem;
   font-size: 1.1rem;
   font-weight: 600;
   cursor: pointer;
-  list-style: none; /* remove default marker */
+  list-style: none;       /* remove default marker */
   position: relative;
 }
+
 .accordion[open] summary {
   background-color: #e2e2e2;
 }
+
 .accordion summary::-webkit-details-marker {
-  display: none; /* remove default arrow */
+  display: none;          /* remove default arrow */
 }
+
 .accordion summary::before {
   content: '▶';           /* right‐pointing triangle */
-  display: inline-block;
-  margin-right: 0.5rem;
-  transition: transform 0.2s ease;
-  font-size: 0.9rem;
   position: absolute;
-  left: 1rem;
+  left: 1rem;             /* arrow sits at 1rem */
   top: 50%;
   transform: translateY(-50%);
+  transition: transform 0.2s ease;
+  font-size: 0.9rem;
 }
+
 .accordion[open] summary::before {
   transform: translateY(-50%) rotate(90deg); /* point down when open */
 }
+
 .accordion .content {
   padding: 1rem;
   border-top: 1px solid #ddd;
 }
+
 .accordion .content p {
   margin: 0 0 1rem;
 }
+
 .accordion .content a {
   color: #0066cc;
   text-decoration: none;
 }
+
 .accordion .content a:hover {
   text-decoration: underline;
 }
