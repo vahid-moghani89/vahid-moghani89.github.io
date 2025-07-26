@@ -3,9 +3,14 @@ layout: home    # or `default` if Minimal has no `home` layout
 title: "Home"
 ---
 
-<div style="float: right; margin: 0 0 1rem 1rem; max-width: 200px;">
-  <img src="{/graphics/9ca4446a62b3a82a649edf944974ca08-768x1151.jpg}" alt="Vahid Moghani" style="width: 30%; height: auto; border-radius: 50%;" />
+<div style="float: right; width: 200px; margin: 0 0 1rem 1rem;">
+  <img
+    src="{{ '/graphics/9ca4446a62b3a82a649edf944974ca08-768x1151.jpg' | relative_url }}"
+    alt="Vahid Moghani"
+    style="width: 100%; height: auto; border-radius: 50%;"
+  />
 </div>
+
 
 ## Welcome to my personal webpage
 
