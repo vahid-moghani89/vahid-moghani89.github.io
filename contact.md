@@ -8,4 +8,4 @@ permalink: /contact/
 
 **Phone:** (+31) 104088736
 
-**Office:** Room T18-04, Burgemeester Oudlaan 50, 3062 PA, Rotterdam
+**Office:** Room T18-22, Burgemeester Oudlaan 50, 3062 PA, Rotterdam
