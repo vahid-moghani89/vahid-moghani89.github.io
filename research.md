@@ -92,9 +92,8 @@ With Pilar García‑Gómez and Tom Van Ourti. *Email me for a draft.*
 # Work in Progress
 
 <details class="accordion" markdown="1">
-<summary>Health Disparities: The Business Contribution</summary>
-
-Using the pool of all full‑time employees in the Netherlands between 2009–2016, this study will focus on how workplace settings might influence health outcomes. By analyzing the health trends among the movers across firms, this research intends to isolate the specific influence of firm‑related factors, distinguishing them from the personal attributes of employees. This nuanced approach is expected to shed light on the diverse ways in which work environments can impact health. The findings from this study will be instrumental in informing the development of more effective health policies and workplace interventions. Ultimately, this method will provide insights into the extent to which firm‑level factors explain variations in health expenditures, offering valuable guidance for future policy and organizational decisions.
+<summary>Workplace and Health</summary>
+This project studies how firms shape workers’ healthcare use and long-term health. Using Dutch administrative employer–employee data linked with individual healthcare expenditures, I apply an AKM two-way fixed effects model with KSS correction to isolate firm contributions beyond worker characteristics and insurance access. I find that a one standard deviation difference in firm effects translates into a 17.8% change in healthcare costs. Moreover, firm effects predict future disability and mortality risks, even after controlling for individual and neighborhood factors. These results show that firms play a significant role in health inequalities, suggesting that workplaces could be important targets for health policy.
 </details>
 
 <details class="accordion" markdown="1">
