@@ -64,6 +64,8 @@ rdd_wp_url: "/documents/Moghani_Badri_RDD_MultipleThresholds.pdf"
 
 With Saeed Badri. <a href="{{ page.rdd_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a>.
 
+**Abstract** – This paper develops an estimator for regression discontinuity designs (RDD) with multiple thresholds. We construct an integrated–derivative estimator that recovers the outcome difference by numerically integrating nonparametric slope estimates between thresholds. We derive its asymptotic distribution, establishing a central limit theorem with a feasible variance formula. The integrated estimator is asymptotically independent of the standard boundary estimator, which enables an inverse–variance combination that is more efficient. Simulations confirm the theoretical predictions: efficiency gains are modest under uniform designs and more pronounced when data are sparse near the cutoffs.
+
 </details>
 
 <details class="accordion" markdown="1">
