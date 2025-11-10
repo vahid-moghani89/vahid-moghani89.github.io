@@ -80,7 +80,8 @@ With Pilar García-Gómez and Tom Van Ourti. _Draft available upon request._
 <details class="accordion" markdown="1">
 <summary>Mental Health Literacy, Beliefs and Demand for Support among University Students</summary>
 
-Under review. With Michelle Acampora and Francesco Capozza.
+Revise and Resubmit, *Experimental Economics.*  
+With Michelle Acampora and Francesco Capozza. 
 [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4261487){:target="_blank" rel="noopener noreferrer"}.
 
 **Abstract** – This paper assesses the impact of a mental health literacy intervention on the demand for mental health support among university students. We run a field experiment with 2,978 students at a large Dutch university. The intervention raises willingness to pay and demand for a mental-health app among male respondents, and shifts information demand from psychological counselling toward coaching—driven by students with moderate distress. Increased perceived effectiveness of low-intensity therapy appears to be the mechanism. A three-week follow-up suggests a moderate improvement in mental-health scores for treated female students, consistent with higher care-seeking.
