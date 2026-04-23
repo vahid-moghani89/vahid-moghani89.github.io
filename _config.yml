@@ -1,18 +1,12 @@
 title: "Vahid Moghani"
-description: "©VahidMoghani" 
-# Use a simple and clean theme. GitHub Pages will apply this automatically.
+description: "Personal website of Vahid Moghani, postdoctoral researcher in health economics."
 theme: minima
+lang: en
 
 markdown: kramdown
 
-# Expose pages in the header navigation. These paths correspond to the main
-# sections of the site and will appear in order.
 header_pages:
   - index.md
   - research.md
-  - book-a-meeting.md
+  - software.md
   - contact.md
-  # Farsi pages can be added to the header if desired by uncommenting the lines
-  #- fa/تحقیقات-آکادمیک.md
-  #- fa/دیدگاه‌ها.md
-  #- fa/علی-مغانی.md

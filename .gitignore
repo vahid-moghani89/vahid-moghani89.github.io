@@ -1,0 +1,6 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.jekyll-preview*.log
+_local_jekyll_preview.rb
