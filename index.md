@@ -6,7 +6,7 @@ title: "Home"
 <section class="hero">
   <div class="hero-content">
 
-    <h1>Vahid Moghani</h1>
+    <h1>About</h1>
 
     <p class="hero-lead">
       I am a postdoctoral researcher at Erasmus School of Economics and Tinbergen Institute,

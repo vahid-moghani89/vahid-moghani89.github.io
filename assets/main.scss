@@ -405,6 +405,31 @@ a:hover {
   line-height: 1.45;
 }
 
+.paper-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22rem;
+  color: #1f5fd1;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.paper-link:visited {
+  color: #1f5fd1;
+}
+
+.paper-link::after {
+  content: "\2197";
+  font-size: 0.82em;
+  line-height: 1;
+}
+
+.paper-link:hover {
+  color: #1849a4;
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+}
+
 .research-item summary::-webkit-details-marker,
 .accordion summary::-webkit-details-marker {
   display: none;
@@ -437,7 +462,7 @@ a:hover {
 
 .details-body,
 .accordion .content {
-  padding: 0 1.4rem 1.4rem;
+  padding: 1rem 1.4rem 1.4rem;
   border-top: 1px solid var(--border);
 }
 

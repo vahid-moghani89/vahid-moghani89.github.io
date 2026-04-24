@@ -12,12 +12,12 @@ firm_wp_url: "/documents/FirmsHealth.pdf"
   </p>
 </div>
 
-# Working Papers
+## Working Papers
 
 <details class="accordion" markdown="1">
 <summary>
   <span class="paper-title">The Health Costs of Firms</span>
-  <span class="paper-meta">Job Market Paper | <a href="{{ page.firm_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a>.</span>
+  <span class="paper-meta">Job Market Paper | <a class="paper-link" href="{{ page.firm_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a>.</span>
 </summary>
 <div class="content" markdown="1">
 **Abstract** - How much do firms contribute to disparities in workers' healthcare expenditure? Using linked Dutch employer--employee administrative data, I use workers who move across firms to separate persistent worker differences from persistent firm differences. Moving to a firm one standard deviation higher in the firm-effect distribution raises expected annual healthcare expenditure by 17.8\%. The implied top--bottom quintile gap is comparable to expenditure gradients by income, wealth, and education, and more than half of the dispersion remains within narrowly defined activity codes. Supporting a health-risk interpretation, workers who move to higher-expenditure firms increase use of pain-management and muscle-relaxant medication and face higher disability entry and long-run mortality. Because Dutch health insurance is largely financed outside the employment relationship, the results point to a fiscal externality: firms generate healthcare expenditure that they do not fully bear.
@@ -27,7 +27,7 @@ firm_wp_url: "/documents/FirmsHealth.pdf"
 <details class="accordion" markdown="1">
 <summary>
   <span class="paper-title">Mental Health Literacy, Beliefs and Demand for Support among University Students</span>
-  <span class="paper-meta">Revise and Resubmit, <em>Experimental Economics.</em> With Michelle Acampora and Francesco Capozza | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4261487" target="_blank" rel="noopener noreferrer">Working paper</a>.</span>
+  <span class="paper-meta">Revise and Resubmit, <em>Experimental Economics.</em> With Michelle Acampora and Francesco Capozza | <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4261487" target="_blank" rel="noopener noreferrer">Working paper</a>.</span>
 </summary>
 <div class="content" markdown="1">
 **Abstract** - This paper assesses the impact of a mental health literacy intervention on the demand for mental health support among university students. We run a field experiment with 2,978 students at a large Dutch university. The intervention raises willingness to pay and demand for a mental-health app among male respondents, and shifts information demand from psychological counselling toward coaching, driven by students with moderate distress. Increased perceived effectiveness of low-intensity therapy appears to be the mechanism. A three-week follow-up suggests a moderate improvement in mental-health scores for treated female students, consistent with higher care-seeking.
@@ -37,7 +37,7 @@ firm_wp_url: "/documents/FirmsHealth.pdf"
 <details class="accordion" markdown="1">
 <summary>
   <span class="paper-title">Difference Estimation for Regression Discontinuity with Multiple Ordered Thresholds</span>
-  <span class="paper-meta">With Saeed Badri | <a href="{{ page.rdd_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a>.</span>
+  <span class="paper-meta">With Saeed Badri | <a class="paper-link" href="{{ page.rdd_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a>.</span>
 </summary>
 <div class="content" markdown="1">
 **Abstract** - This paper develops an estimator for regression discontinuity designs (RDD) with multiple thresholds. We construct an integrated-derivative estimator that recovers the outcome difference by numerically integrating nonparametric slope estimates between thresholds. We derive its asymptotic distribution, establishing a central limit theorem with a feasible variance formula. The integrated estimator is asymptotically independent of the standard boundary estimator, which enables an inverse-variance combination that is more efficient. Simulations confirm the theoretical predictions: efficiency gains are modest under uniform designs and more pronounced when data are sparse near the cutoffs.
@@ -55,7 +55,7 @@ firm_wp_url: "/documents/FirmsHealth.pdf"
 </details>
 
 
-# Work in Progress
+## Work in Progress
 
 
 <article class="accordion paper-card">
