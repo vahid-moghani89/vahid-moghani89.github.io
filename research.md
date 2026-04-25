@@ -36,11 +36,11 @@ firm_wp_url: "/documents/FirmsHealth.pdf"
 
 <details class="accordion" markdown="1">
 <summary>
-  <span class="paper-title">Difference Estimation for Regression Discontinuity with Multiple Ordered Thresholds</span>
+  <span class="paper-title">Combining Boundary and Interior Information in Ordered Multi-Threshold Regression Discontinuity Designs</span>
   <span class="paper-meta">With Saeed Badri | <a class="paper-link" href="{{ page.rdd_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a>.</span>
 </summary>
 <div class="content" markdown="1">
-**Abstract** - This paper develops an estimator for regression discontinuity designs (RDD) with multiple thresholds. We construct an integrated-derivative estimator that recovers the outcome difference by numerically integrating nonparametric slope estimates between thresholds. We derive its asymptotic distribution, establishing a central limit theorem with a feasible variance formula. The integrated estimator is asymptotically independent of the standard boundary estimator, which enables an inverse-variance combination that is more efficient. Simulations confirm the theoretical predictions: efficiency gains are modest under uniform designs and more pronounced when data are sparse near the cutoffs.
+**Abstract** - Ordered multi-threshold regression discontinuity designs often require aggregating local discontinuities across several known cutoffs. This paper shows that such aggregate parameters can be decomposed into boundary terms and smooth contrasts between adjacent thresholds. Interior observations do not identify a single RD jump, but they are informative about these smooth segment contrasts. We develop an integrated-derivative estimator for segment contrasts by numerically integrating nonparametric estimates of the derivative of the conditional mean between adjacent thresholds. We derive its asymptotic distribution, including the leading bias and a feasible variance formula. The main result shows that the integrated-derivative estimator is asymptotically independent of the corresponding boundary-level estimator for the same smooth contrast. This independence yields a transparent inverse-variance combination of boundary and interior signals. The combined estimator is an augmentation of boundary-level estimation and is most useful when boundary information is sparse or noisy. Simulations confirm the distributional approximation and show modest gains under regular designs and larger gains in sparse-boundary designs.
 </div>
 </details>
 
