@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 rdd_wp_url: "/documents/Moghani_Badri_RDD_MultipleThresholds.pdf"
 firm_wp_url: "/documents/FirmsHealth.pdf"
+mover_wp_url: "/documents/MoverEventAKM.pdf"
 ---
 
 <div class="section-intro">
@@ -16,8 +17,18 @@ firm_wp_url: "/documents/FirmsHealth.pdf"
 
 <details class="accordion" markdown="1">
 <summary>
+  <span class="paper-title">When Is the Mover-Design Event Study Coefficient a Place-Effect Share?</span>
+  <span class="paper-meta">Job Market Paper 1 | <a class="paper-link" href="{{ page.mover_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a></span>
+</summary>
+<div class="content" markdown="1">
+**Abstract** - Mover-design event studies are a leading approach to separating place effects from sorting. The coefficient is often interpreted as the share of cross-sectional variation in location means due to places. I show the coefficient depends on how movers connect locations: two economies can be identical in place effects, sorting, and location means, yet deliver different mover coefficients. Only under *directional isotropy*, a testable condition, does the coefficient permit a cross-sectional reading: it averages the variance share of place effects and the share that equalizing them removes. An illustration in Dutch employer--employee wage data rejects the condition.
+</div>
+</details>
+
+<details class="accordion" markdown="1">
+<summary>
   <span class="paper-title">The Health Costs of Firms</span>
-  <span class="paper-meta">Job Market Paper | <a class="paper-link" href="{{ page.firm_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a></span>
+  <span class="paper-meta">Job Market Paper 2 | <a class="paper-link" href="{{ page.firm_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a></span>
 </summary>
 <div class="content" markdown="1">
 **Abstract** - How much do firms contribute to disparities in workers' healthcare expenditure? Using linked Dutch employer--employee administrative data, I exploit worker moves across firms to separate persistent worker differences from persistent firm differences. Moving the same worker to a firm one standard deviation higher in the firm-effect distribution raises expected annual healthcare expenditure by 17.8%. The implied top--bottom quintile gap is comparable to expenditure gradients by income, wealth, and education, and more than half of the dispersion remains within narrowly defined industrial codes. Supporting a health-risk interpretation, workers who move to higher-expenditure firms increase use of pain, anti-inflammatory, and muscle relaxant medications and face higher disability entry and long-run mortality. Because Dutch health insurance is largely financed outside the employment relationship, the results point to a fiscal externality: firms generate healthcare expenditure that they do not fully bear.
