@@ -5,6 +5,7 @@ permalink: /research/
 rdd_wp_url: "/documents/Moghani_Badri_RDD_MultipleThresholds.pdf"
 firm_wp_url: "/documents/FirmsHealth.pdf"
 mover_wp_url: "/documents/MoverEventAKM.pdf"
+disambiguating_wp_url: "/documents/Disambiguating.pdf"
 ---
 
 <div class="section-intro">
@@ -32,6 +33,16 @@ mover_wp_url: "/documents/MoverEventAKM.pdf"
 </summary>
 <div class="content" markdown="1">
 **Abstract** - How much do firms contribute to disparities in workers' healthcare expenditure? Using linked Dutch employer--employee administrative data, I exploit worker moves across firms to separate persistent worker differences from persistent firm differences. Moving the same worker to a firm one standard deviation higher in the firm-effect distribution raises expected annual healthcare expenditure by 17.8%. The implied top--bottom quintile gap is comparable to expenditure gradients by income, wealth, and education, and more than half of the dispersion remains within narrowly defined industrial codes. Supporting a health-risk interpretation, workers who move to higher-expenditure firms increase use of pain, anti-inflammatory, and muscle relaxant medications and face higher disability entry and long-run mortality. Because Dutch health insurance is largely financed outside the employment relationship, the results point to a fiscal externality: firms generate healthcare expenditure that they do not fully bear.
+</div>
+</details>
+
+<details class="accordion" markdown="1">
+<summary>
+  <span class="paper-title">Disambiguating Information Interventions: Recovering Beliefs and Ambiguity Attitudes from Virtual Twins</span>
+  <span class="paper-meta">With Aurelien Baillon and Francesco Capozza | <a class="paper-link" href="{{ page.disambiguating_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a></span>
+</summary>
+<div class="content" markdown="1">
+**Abstract** - Elicited probabilities conflate latent beliefs, ambiguity attitudes, and response error. We develop a measurement method that identifies these components from noisy subjective-probability data using consequential bets on singleton and union events. Ambiguity weighting is parameterized by two indices (*a*, *b*), capturing insensitivity and elevation. A hierarchical Bayesian model places latent beliefs on the simplex, allows respondent-level (<em>a<sub>i</sub></em>, <em>b<sub>i</sub></em>), and treats elicited probabilities as noisy measurements. We implement the method in a randomized information experiment in the Dutch LISS panel, where respondents make incentivized forecasts about a demographically matched virtual twin's GP utilization. The treatment effect on raw probabilities is imprecise and indistinguishable from zero; model-recovered beliefs show meaningful updating, improving predictive accuracy by 0.026--0.032 Brier points and lowering elevation-based ambiguity aversion, with a smaller and less robust change in likelihood insensitivity. Treatment effects on elicited probabilities need not identify treatment effects on beliefs.
 </div>
 </details>
 
@@ -73,13 +84,6 @@ mover_wp_url: "/documents/MoverEventAKM.pdf"
 <div class="paper-summary">
   <span class="paper-title">The Determinants of Demand for Mental Health Support</span>
   <span class="paper-meta">With Sonia Bhalotra and Francesco Capozza.</span>
-</div>
-</article>
-
-<article class="accordion paper-card">
-<div class="paper-summary">
-  <span class="paper-title">Measuring Uncertainty Perception in the Health Domain</span>
-  <span class="paper-meta">With Aurelien Baillon and Francesco Capozza.</span>
 </div>
 </article>
 
