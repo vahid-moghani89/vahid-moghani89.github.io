@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 rdd_wp_url: "/documents/Moghani_Badri_RDD_MultipleThresholds.pdf"
 firm_wp_url: "/documents/FirmsHealth.pdf"
-mover_wp_url: "/documents/MoverEventAKM.pdf"
+mover_wp_url: "https://papers.tinbergen.nl/26056.pdf"
 disambiguating_wp_url: "/documents/Disambiguating.pdf"
 ---
 
