@@ -100,3 +100,12 @@ disambiguating_wp_url: "/documents/Disambiguating.pdf"
   <span class="paper-meta">With I. Lansdorp-Vogelaar, O. O'Donnell, M. Robson, E. Toes-Zoutendijk, R. van Gestel, and Tom Van Ourti.</span>
 </div>
 </article>
+
+## Medical and Health Policy
+
+<article class="accordion paper-card">
+<div class="paper-summary">
+  <span class="paper-title"><a class="paper-link" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2852117" target="_blank" rel="noopener noreferrer">Antipsychotic Exposure and Pharmacologically Treated Type 2 Diabetes in Dutch Youths</a></span>
+  <span class="paper-meta"><em>JAMA Network Open</em> (with Ravish Nilish Gangapersad, Pilar García-Gómez, Birgit C. P. Koch, and Bram Dierckx).</span>
+</div>
+</article>
