@@ -16,9 +16,7 @@ title: "Home"
       I am currently a Postdoctoral Researcher at Erasmus School of Economics and the Tinbergen Institute.
     </p>
 
-    <p class="hero-meta">
-      Health, Labour, and Family Economics
-    </p>
+ 
 
     <div class="hero-actions">
       <a class="button-secondary" href="{{ '/documents/CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
