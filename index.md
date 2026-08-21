@@ -9,13 +9,11 @@ title: "Home"
     <h1>About</h1>
 
     <p class="hero-lead">
-      I am a postdoctoral researcher at Erasmus School of Economics and Tinbergen Institute,
-      working within the Health Economics group in the Applied Economics department.
+      I am an applied microeconomist working in health and labor economics, with a complementary research line in econometrics. My applied work uses Dutch administrative and experimental data to study how workplaces, labor-market shocks, and healthcare institutions shape health and health disparities, and how information and beliefs shape the demand for care. My econometric work is motivated by questions of identification and measurement that arise in my applied research. It examines how commonly used empirical designs and elicited measures map onto the economic objects of interest.
     </p>
 
     <p class="hero-lead">
-      My research sits at the intersection of health, labour, and family economics,
-      with a particular interest in econometric methods.
+      I am currently a Postdoctoral Researcher at Erasmus School of Economics and the Tinbergen Institute.
     </p>
 
     <p class="hero-meta">
