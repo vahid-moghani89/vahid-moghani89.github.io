@@ -20,10 +20,10 @@ title: "Home"
 
     <div class="hero-actions">
       <a class="button-secondary" href="{{ '/documents/CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">
-        Download CV
+        CV
       </a>
       <a class="button-secondary" href="{{ '/research/' | relative_url }}">
-        View Research
+        Research
       </a>
       <a class="button-secondary" href="{{ '/contact/' | relative_url }}">
         Contact
@@ -55,7 +55,7 @@ title: "Home"
     </p>
   </div>
   <div class="spotlight-actions">
-    <a class="button-primary" href="{{ '/documents/FirmsHealth.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Read the paper</a>
+    <a class="button-secondary" href="{{ '/documents/FirmsHealth.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Read the paper</a>
     <a class="button-secondary" href="{{ '/research/' | relative_url }}">All research</a>
   </div>
 </section>
