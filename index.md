@@ -25,6 +25,9 @@ title: "Home"
       <a class="button-secondary" href="{{ '/research/' | relative_url }}">
         View Research
       </a>
+      <a class="button-secondary" href="{{ '/contact/' | relative_url }}">
+        Contact
+      </a>
     </div>
   </div>
 
@@ -36,23 +39,23 @@ title: "Home"
   </figure>
 </section>
 
-<section class="feature-grid">
-  <article class="feature-card">
-    <p class="eyebrow">Research</p>
-    <h3>Current Work</h3>
-    <p>(Working) papers and ongoing projects in health, labour, and family economics.</p>
-    <div class="button-row">
-      <a class="button-secondary" href="{{ '/research/' | relative_url }}">Explore research</a>
-    </div>
-  </article>
-
-
-  <article class="feature-card">
-    <p class="eyebrow">Contact</p>
-    <h3>Get in Touch</h3>
-    <p>Please use the contact page.</p>
-    <div class="button-row">
-      <a class="button-secondary" href="{{ '/contact/' | relative_url }}">Contact details</a>
-    </div>
-  </article>
+<section class="spotlight">
+  <div class="spotlight-main">
+    <p class="eyebrow">Job Market Paper</p>
+    <h2 class="spotlight-title">
+      <a href="{{ '/documents/FirmsHealth.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">The Health Costs of Firms</a>
+    </h2>
+    <p class="spotlight-lead">
+      How much do firms differ in what otherwise similar workers cost the healthcare system? Using linked Dutch employer&ndash;employee data and worker moves across firms, I find that moving the same worker to a firm one standard deviation higher in the firm-effect distribution raises expected annual healthcare expenditure by 17.8% &mdash; a gap comparable to income and education gradients, mostly within industries, reflected in pain medication, disability, and mortality, and borne by the collectively financed system rather than by the firm.
+    </p>
+    <p class="spotlight-companion">
+      <span class="spotlight-label">Companion paper</span>
+      <a class="paper-link" href="https://papers.tinbergen.nl/26056.pdf" target="_blank" rel="noopener noreferrer">When Is the Mover-Design Event Study Coefficient a Place-Effect Share?</a>
+      <span class="spotlight-note">&mdash; what mover-design coefficients identify, and why the job market paper estimates firm contributions directly.</span>
+    </p>
+  </div>
+  <div class="spotlight-actions">
+    <a class="button-primary" href="{{ '/documents/FirmsHealth.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Read the paper</a>
+    <a class="button-secondary" href="{{ '/research/' | relative_url }}">All research</a>
+  </div>
 </section>
