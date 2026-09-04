@@ -360,6 +360,40 @@ a:hover {
   margin-bottom: 1.75rem;
 }
 
+/* Job market research box (research page) */
+.jm-box {
+  margin: 1.5rem 0 2.75rem;
+  padding: 1.35rem 1.4rem 0.4rem;
+  border-radius: 28px;
+  background:
+    linear-gradient(180deg, rgba(79, 103, 115, 0.1), rgba(79, 103, 115, 0.04)),
+    var(--surface);
+  border: 1px solid rgba(79, 103, 115, 0.2);
+  border-left: 4px solid var(--accent);
+}
+
+.post-content .jm-box .eyebrow {
+  margin: 0 0 1rem;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: var(--accent);
+}
+
+.post-content .jm-box-lead {
+  margin: 0 0 1.1rem;
+  font-size: 1.02rem;
+  line-height: 1.6;
+  color: var(--text-soft);
+}
+
+.jm-box .accordion {
+  box-shadow: 0 10px 24px rgba(31, 41, 55, 0.06);
+}
+
+.jm-box .accordion:last-child {
+  margin-bottom: 1rem;
+}
+
 /* Job market paper spotlight (front page) */
 .spotlight {
   display: grid;

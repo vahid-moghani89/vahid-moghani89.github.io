@@ -14,12 +14,13 @@ disambiguating_wp_url: "/documents/Disambiguating.pdf"
   </p>
 </div>
 
-## Working Papers
+<section class="jm-box" markdown="1">
+<p class="eyebrow">Job Market Research</p>
 
 <details class="accordion" id="jmp" markdown="1">
 <summary>
   <span class="paper-title">The Health Costs of Firms</span>
-  <span class="paper-meta">Job Market Paper | <a class="paper-link" href="{{ page.firm_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a> | <a class="paper-link" href="#companion">Companion paper</a></span>
+  <span class="paper-meta">Job Market Paper | <a class="paper-link" href="{{ page.firm_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a></span>
 </summary>
 <div class="content" markdown="1">
 **Abstract** - This paper estimates how much firms differ in their contribution to otherwise similar workers' healthcare expenditure. Using linked Dutch employer--employee data, I exploit worker moves across firms to separate persistent worker and firm differences. Moving the same worker to a firm one standard deviation higher in the firm-effect distribution raises expected annual expenditure by 17.8%. The implied top--bottom quintile gap is comparable to gradients by income, wealth, and education, and over half of the dispersion lies within narrowly defined industries. Supporting a health-risk interpretation, workers who move to firms with higher coworker expenditure increase use of pain, anti-inflammatory, and muscle relaxant medications, and exposure to high-effect firms predicts disability and mortality, including among workers displaced by closures. High-effect firms pay higher wage premia, but mainly between rather than within industries. Because basic healthcare is collectively financed, the results point to a fiscal externality: firms generate healthcare expenditure they do not fully bear.
@@ -37,6 +38,9 @@ disambiguating_wp_url: "/documents/Disambiguating.pdf"
 *Relation to the job market paper* - This paper makes precise what mover-design event-study coefficients do and do not identify, a question the literature had left implicit. The coefficient maps into a cross-sectional share only under a testable restriction on mobility patterns, and even then it recovers a share of the dispersion in firm averages, not the contribution of firms to expenditure differences across individual workers. That distinction is why the job market paper estimates the latter object directly rather than relying on the event-study share.
 </div>
 </details>
+</section>
+
+## Working Papers
 
 <details class="accordion" markdown="1">
 <summary>
