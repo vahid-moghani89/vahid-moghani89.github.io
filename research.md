@@ -15,7 +15,7 @@ disambiguating_wp_url: "/documents/Disambiguating.pdf"
 </div>
 
 <section class="jm-box" markdown="1">
-<p class="eyebrow">Job Market Research</p>
+<p class="eyebrow">Job Market 2026&ndash;27</p>
 
 <details class="accordion" id="jmp" markdown="1">
 <summary>
