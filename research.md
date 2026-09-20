@@ -88,15 +88,22 @@ disambiguating_wp_url: "/documents/Disambiguating.pdf"
 
 <article class="accordion paper-card">
 <div class="paper-summary">
-  <span class="paper-title">The Determinants of Demand for Mental Health Support</span>
+  <span class="paper-title">Mental Models of Mental Health</span>
   <span class="paper-meta">With Sonia Bhalotra and Francesco Capozza.</span>
 </div>
 </article>
 
 <article class="accordion paper-card">
 <div class="paper-summary">
-  <span class="paper-title">Healing Gaps: General Practitioners' Influence on Minority Health</span>
-  <span class="paper-meta">With E. de Weerd.</span>
+  <span class="paper-title">Female Practice Ownership and Women's Care: Evidence from Local Variation in Practice Owners</span>
+  <span class="paper-meta">With Elisa de Weerd.</span>
+</div>
+</article>
+
+<article class="accordion paper-card">
+<div class="paper-summary">
+  <span class="paper-title">Do Patients or Physicians Drive Variation in Medication Costs in India?</span>
+  <span class="paper-meta">With Ajay Bhaskarabhatla, Owen O'Donnell, and Shalvi Thakur.</span>
 </div>
 </article>
 
