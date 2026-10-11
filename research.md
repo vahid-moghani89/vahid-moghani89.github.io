@@ -44,11 +44,11 @@ disambiguating_wp_url: "/documents/Disambiguating.pdf"
 
 <details class="accordion" markdown="1">
 <summary>
-  <span class="paper-title">Disambiguating Information Interventions: Recovering Beliefs and Ambiguity Attitudes from Virtual Twins</span>
+  <span class="paper-title">Disambiguating Information Interventions</span>
   <span class="paper-meta">With Aurelien Baillon and Francesco Capozza | <a class="paper-link" href="{{ page.disambiguating_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a></span>
 </summary>
 <div class="content" markdown="1">
-**Abstract** - Elicited probabilities conflate latent beliefs, ambiguity attitudes, and response error. We develop a measurement method that identifies these components from noisy subjective-probability data using consequential bets on singleton and union events. Ambiguity weighting is parameterized by two indices (*a*, *b*), capturing insensitivity and elevation. A hierarchical Bayesian model places latent beliefs on the simplex, allows respondent-level (<em>a<sub>i</sub></em>, <em>b<sub>i</sub></em>), and treats elicited probabilities as noisy measurements. We implement the method in a randomized information experiment in the Dutch LISS panel, where respondents make incentivized forecasts about a demographically matched virtual twin's GP utilization. The treatment effect on raw probabilities is imprecise and indistinguishable from zero; model-recovered beliefs show meaningful updating, improving predictive accuracy by 0.026--0.032 Brier points and lowering elevation-based ambiguity aversion, with a smaller and less robust change in likelihood insensitivity. Treatment effects on elicited probabilities need not identify treatment effects on beliefs.
+**Abstract** - Information experiments read reported probabilities as beliefs. When the odds are unknown, a reported probability also reflects two ambiguity attitudes: aversion pushes it in the pessimistic direction; coarse perception pulls it toward one half. Information changes these attitudes as well as the belief, so a change in a reported probability is not a change in belief. We characterize the designs that identify the belief and both attitudes. A single elicited probability does not identify even the sign of the belief change; we give the threshold beyond which the sign is trustworthy. A known six-bet design identifies all three, run once in each information condition. We use it in a randomized experiment in a Dutch population panel, betting on a matched panel member's doctor visits. At face value, the reported probabilities show no detectable effect, which is not evidence about beliefs. Recovered beliefs show improved predictive accuracy and lower ambiguity aversion.
 </div>
 </details>
 
