@@ -19,7 +19,7 @@ disambiguating_wp_url: "/documents/Disambiguating.pdf"
 
 <details class="accordion" id="jmp" markdown="1">
 <summary>
-  <span class="paper-title">The Health Costs of Firms</span>
+  <span class="paper-title">Health Costs of Firms</span>
   <span class="paper-meta">Job Market Paper | <a class="paper-link" href="{{ page.firm_wp_url }}" target="_blank" rel="noopener noreferrer">Working paper</a></span>
 </summary>
 <div class="content" markdown="1">
